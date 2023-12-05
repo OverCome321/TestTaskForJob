@@ -13,3 +13,8 @@ https://github.com/OverCome321/20IS3-3-Practic
 
 
 ![image](https://github.com/OverCome321/TestTaskForJob/assets/113111030/8f59d847-7944-404a-b590-59904bea1d13)
+
+
+# Ответ на last вопрос 
+
+  Удаленный формат full day будет самым оптимальным
